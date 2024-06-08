@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pricepredict"
+version = "0.1.0"
+description = "A package to predict the p\b\brice of electrici\b\b\b\benegergu \b"
+authors = ["James Thurgood <jamesthurgood34@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
